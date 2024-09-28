@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Тэги on Gazeta</title>
-    <link>/tags/</link>
+    <link>//localhost:4321/tags/</link>
     <description>Recent content in Тэги on Gazeta</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plot</title>
-      <link>/tags/plot/</link>
+      <link>//localhost:4321/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>/tags/plot/</guid>
+      <guid>//localhost:4321/tags/plot/</guid>
       <description></description>
     </item>
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>//localhost:4321/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>/tags/r-markdown/</guid>
+      <guid>//localhost:4321/tags/r-markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Regression</title>
-      <link>/tags/regression/</link>
+      <link>//localhost:4321/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>/tags/regression/</guid>
+      <guid>//localhost:4321/tags/regression/</guid>
       <description></description>
     </item>
     <item>
       <title>Blogdown</title>
-      <link>/tags/blogdown/</link>
+      <link>//localhost:4321/tags/blogdown/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/blogdown/</guid>
+      <guid>//localhost:4321/tags/blogdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>/tags/markdown/</link>
+      <link>//localhost:4321/tags/markdown/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/markdown/</guid>
+      <guid>//localhost:4321/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>MathJax</title>
-      <link>/tags/mathjax/</link>
+      <link>//localhost:4321/tags/mathjax/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/mathjax/</guid>
+      <guid>//localhost:4321/tags/mathjax/</guid>
       <description></description>
     </item>
     <item>
       <title>Pandoc</title>
-      <link>/tags/pandoc/</link>
+      <link>//localhost:4321/tags/pandoc/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/pandoc/</guid>
+      <guid>//localhost:4321/tags/pandoc/</guid>
       <description></description>
     </item>
     <item>
       <title>RStudio</title>
-      <link>/tags/rstudio/</link>
+      <link>//localhost:4321/tags/rstudio/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/rstudio/</guid>
+      <guid>//localhost:4321/tags/rstudio/</guid>
       <description></description>
     </item>
     <item>
       <title>Lorem Ipsum</title>
-      <link>/tags/lorem-ipsum/</link>
+      <link>//localhost:4321/tags/lorem-ipsum/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/lorem-ipsum/</guid>
+      <guid>//localhost:4321/tags/lorem-ipsum/</guid>
       <description></description>
     </item>
   </channel>

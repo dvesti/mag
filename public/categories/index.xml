@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Категории on Gazeta</title>
-    <link>/categories/</link>
+    <link>//localhost:4321/categories/</link>
     <description>Recent content in Категории on Gazeta</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>//localhost:4321/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>/categories/r/</guid>
+      <guid>//localhost:4321/categories/r/</guid>
       <description></description>
     </item>
     <item>
       <title>Example</title>
-      <link>/categories/example/</link>
+      <link>//localhost:4321/categories/example/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/categories/example/</guid>
+      <guid>//localhost:4321/categories/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>/categories/hugo/</link>
+      <link>//localhost:4321/categories/hugo/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/categories/hugo/</guid>
+      <guid>//localhost:4321/categories/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>/categories/machine-learning/</link>
+      <link>//localhost:4321/categories/machine-learning/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/categories/machine-learning/</guid>
+      <guid>//localhost:4321/categories/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Leekaso</title>
-      <link>/categories/leekaso/</link>
+      <link>//localhost:4321/categories/leekaso/</link>
       <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/categories/leekaso/</guid>
+      <guid>//localhost:4321/categories/leekaso/</guid>
       <description></description>
     </item>
     <item>
       <title>Техно</title>
-      <link>/categories/tech/</link>
+      <link>//localhost:4321/categories/tech/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/categories/tech/</guid>
+      <guid>//localhost:4321/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Statistics</title>
-      <link>/categories/statistics/</link>
+      <link>//localhost:4321/categories/statistics/</link>
       <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/categories/statistics/</guid>
+      <guid>//localhost:4321/categories/statistics/</guid>
       <description></description>
     </item>
   </channel>

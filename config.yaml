@@ -48,7 +48,7 @@ menu:
 params:
   description: "A website built through Hugo and blogdown."
   footer: "&copy; [Dvesti](https://github.com/dvesti) 2024 | [Github](https://github.com/dvesti) | [Twitter](https://twitter.com/Prorab)"
-  github_edit: "https://github.com/dvesti/mag/edit/master/content/"
+  github_edit: "https://github.com/dvesti/mag/edit/main/content/"
   summary_length: 300
   text:
     back: "&larr; На Главную"

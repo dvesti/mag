@@ -2,94 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/search/</loc>
+    <loc>//localhost:4321/search/</loc>
   </url><url>
-    <loc>/post/2020/12/01/hello-r-markdown/</loc>
+    <loc>//localhost:4321/post/2020/12/01/hello-r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:4321/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/plot/</loc>
+    <loc>//localhost:4321/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>//localhost:4321/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/categories/r/</loc>
+    <loc>//localhost:4321/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>//localhost:4321/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/regression/</loc>
+    <loc>//localhost:4321/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:4321/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:4321/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/post/2017/02/14/a-plain-markdown-post/</loc>
+    <loc>//localhost:4321/post/2017/02/14/a-plain-markdown-post/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/blogdown/</loc>
+    <loc>//localhost:4321/tags/blogdown/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/example/</loc>
+    <loc>//localhost:4321/categories/example/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/hugo/</loc>
+    <loc>//localhost:4321/categories/hugo/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>//localhost:4321/tags/markdown/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mathjax/</loc>
+    <loc>//localhost:4321/tags/mathjax/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/pandoc/</loc>
+    <loc>//localhost:4321/tags/pandoc/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/rstudio/</loc>
+    <loc>//localhost:4321/tags/rstudio/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2015/07/28/jeff-leek-can-do-zero-fold-cross-validation/</loc>
+    <loc>//localhost:4321/post/2015/07/28/jeff-leek-can-do-zero-fold-cross-validation/</loc>
     <lastmod>2015-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/lorem-ipsum/</loc>
+    <loc>//localhost:4321/tags/lorem-ipsum/</loc>
     <lastmod>2015-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/machine-learning/</loc>
+    <loc>//localhost:4321/categories/machine-learning/</loc>
     <lastmod>2015-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2015/07/27/correlation-implies-whatever-jeff-leek-tells-it-to-imply/</loc>
+    <loc>//localhost:4321/post/2015/07/27/correlation-implies-whatever-jeff-leek-tells-it-to-imply/</loc>
     <lastmod>2015-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/leekaso/</loc>
+    <loc>//localhost:4321/categories/leekaso/</loc>
     <lastmod>2015-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2015/07/26/jeff-leek-counted-to-infinity.-twice./</loc>
+    <loc>//localhost:4321/post/2015/07/26/jeff-leek-counted-to-infinity.-twice./</loc>
     <lastmod>2015-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2015/07/25/git-commits-to-jeff-leek/</loc>
+    <loc>//localhost:4321/post/2015/07/25/git-commits-to-jeff-leek/</loc>
     <lastmod>2015-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/tech/</loc>
+    <loc>//localhost:4321/categories/tech/</loc>
     <lastmod>2015-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2015/07/24/jeff-leek-always-obtains-unbiased-estimators/</loc>
+    <loc>//localhost:4321/post/2015/07/24/jeff-leek-always-obtains-unbiased-estimators/</loc>
     <lastmod>2015-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/statistics/</loc>
+    <loc>//localhost:4321/categories/statistics/</loc>
     <lastmod>2015-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2015/07/23/jeff-leek-is-the-uniformly-most-powerful-jeff/</loc>
+    <loc>//localhost:4321/post/2015/07/23/jeff-leek-is-the-uniformly-most-powerful-jeff/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:4321/about/</loc>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>//localhost:4321/archives/</loc>
   </url>
 </urlset>
