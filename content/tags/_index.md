@@ -1,0 +1,4 @@
+---
+title: Тэги
+slug: tags
+---

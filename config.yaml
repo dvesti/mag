@@ -1,0 +1,63 @@
+baseurl: "/" #"https://dvesti.github.io/mag/"
+defaultContentLanguage: "ru"
+languageCode: "ru-ru" #"en-us"
+title: "Gazeta"
+theme: "hugo-xmag"
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: "↩"
+hasCJKLanguage: true
+enableEmoji: true
+#paginate: 6
+pagination:
+  disableAliases: false
+  pagerSize: 6
+  path: page
+
+outputs:
+  home: ["html", "rss", "json"]
+  
+blackfriday:
+  extensionsmask: ["noIntraEmphasis"]  
+
+permalinks:
+  post: "/post/:year/:month/:day/:slug/"
+  tag: "/tags/:slug/"
+
+menu:
+  main:
+    - name: Главная
+      url: ""
+      weight: 1
+    - name: О блоге
+      url: about/
+      weight: 2
+    - name: Категории
+      url: categories/
+      weight: 3
+    - name: Тэги
+      url: tags/
+      weight: 4
+#    - name: Поиск
+#      url: search/
+#      weight: 5  
+    - name: Подписка
+      url: index.xml
+
+params:
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; [Dvesti](https://github.com/dvesti) 2024 | [Github](https://github.com/dvesti) | [Twitter](https://twitter.com/Prorab)"
+  github_edit: "https://github.com/dvesti/mag/edit/master/content/"
+  summary_length: 300
+  text:
+    back: "&larr; На Главную"
+    edit: "Правка &rarr;"
+    truncated: "&hellip;"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true

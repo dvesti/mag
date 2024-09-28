@@ -1,0 +1,4 @@
+---
+title: Категории
+slug: categories
+---
