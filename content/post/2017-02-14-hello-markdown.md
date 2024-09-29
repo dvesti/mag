@@ -14,8 +14,7 @@ tags:
 - RStudio
 title: Простой текст на Markdown
 toc: true
-featuredImage: "featured.jpg"
-featuredImagePreview: "featured.jpg"
+slug: hello-markdown
 ---
 
 This sample post is mainly for [**blogdown**](https://github.com/rstudio/blogdown) users. If you do not use **blogdown**, you can skip the first section. To know more about the Hugo XMag theme, please read the [About](/about/) page.

@@ -3,19 +3,11 @@
 
 <!-- mojo -->
 
-<meta name="twitter:card" content="summary">
-    {{ if eq .RelPermalink "/" }}
-
-    {{ $autoImage := false }}
+{{ $autoImage := false }}
     {{ range (findRE "<img src=\"https?://[^\"]+" .Content 1) }}
     {{ $autoImage = true }}
     <meta name="twitter:image" content="{{ replaceRE "<img src=\"" "" . | htmlUnescape }}">
     {{ end }}
-    {{ with .Site.Params.twitterImage }}
-    {{ if not $autoImage }}
-    <meta name="twitter:image" content="{{ absURL . }}">
-    {{ end }}
-    {{ end }}
-      {{ end }}
 
-<!-- mojo -->
+
+<!-- /mojo -->
