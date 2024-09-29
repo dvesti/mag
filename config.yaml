@@ -1,6 +1,6 @@
 baseurl: "/" #"https://dvesti.github.io/mag/"
 defaultContentLanguage: "ru"
-languageCode: "ru-ru" #"en-us"
+languageCode: "ru-RU" #"en-us"
 title: "Dbecma"   #"Azbecmak"  #"Gazeta"
 theme: "hugo-xmag"
 disqusShortname: ""
