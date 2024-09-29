@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Техно on Gazeta</title>
+    <title>Техно on Dbecma</title>
     <link>//localhost:4321/categories/tech/</link>
-    <description>Recent content in Техно on Gazeta</description>
+    <description>Recent content in Техно on Dbecma</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sat, 25 Jul 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Git commits to Jeff Leek</title>
-      <link>//localhost:4321/post/2015/07/25/git-commits-to-jeff-leek/</link>
+      <title>Получи запрос от Dvesti</title>
+      <link>//localhost:4321/post/2015/07/25/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82-dvesti/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/post/2015/07/25/git-commits-to-jeff-leek/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;&lt;p&gt;Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imperdiet. Aenean porta, mi non cursus volutpat, mi est mollis libero, id suscipit orci urna a augue. In fringilla euismod lacus, vitae tristique massa ultricies vitae. Mauris accumsan ligula tristique, viverra nulla sed, porta sapien. Vestibulum facilisis nec nisl blandit convallis. Maecenas venenatis porta malesuada. Ut ac erat tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla sodales quam sit amet tincidunt egestas. In et turpis at orci vestibulum ullamcorper. Aliquam sed ante libero. Sed hendrerit arcu lacus.&lt;/p&gt;</description>
+      <guid>//localhost:4321/post/2015/07/25/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82-dvesti/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; - это текст-&amp;ldquo;рыба&amp;rdquo;, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной &amp;ldquo;рыбой&amp;rdquo; для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

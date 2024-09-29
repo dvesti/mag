@@ -12,7 +12,7 @@ tags:
 - MathJax
 - Pandoc
 - RStudio
-title: A Plain Markdown Post
+title: Простой текст на Markdown
 toc: true
 ---
 

@@ -20,7 +20,7 @@ menu: [main, top]
 
 The search is performed via fuse.js. For the search keywords, white spaces act as the `AND` operator, and `|` acts as the `OR` operator. To match an exact phrase, double quote it. For example, `R Markdown` matches articles that contain both `R` and `Markdown`, `R | Markdown` matches articles that contain `R` or `Markdown`, and `"R Markdown"` matches articles that contain the whole phrase `R Markdown`.
 
-<input type="search" id="search-input" data-info-init="Искать……" data-info-ok="Найдено：" data-info-fail="Не найден файл поиска！">
+<input type="search" id="search-input" data-info-init="Искать……" data-info-ok="Найти：" data-info-fail="Не найден файл поиска！">
 
 <div class="search-results">
 <section>

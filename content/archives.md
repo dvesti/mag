@@ -6,6 +6,6 @@ menu:
     weight: 6
 ---
 
-Архив：
+По годам：
 
 {{< archives >}}

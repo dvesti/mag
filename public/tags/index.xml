@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Тэги on Gazeta</title>
+    <title>Тэги on Dbecma</title>
     <link>//localhost:4321/tags/</link>
-    <description>Recent content in Тэги on Gazeta</description>
+    <description>Recent content in Тэги on Dbecma</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
