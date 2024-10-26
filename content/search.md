@@ -2,6 +2,7 @@
 title: Поиск
 weight: 5
 menu: [main, top]
+disable_comments: true
 ---
 
 <style type="text/css">

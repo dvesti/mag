@@ -1,4 +1,4 @@
-baseurl: "/" #"https://dvesti.github.io/mag/"
+baseurl: "xmag.netlify.app/" #"/" #"https://dvesti.github.io/mag/"
 defaultContentLanguage: "ru"
 languageCode: "ru-RU" #"en-us"
 title: "Dbecma"   #"Azbecmak"  #"Gazeta"
@@ -47,13 +47,14 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Dvesti](https://github.com/dvesti) 2024 | [Github](https://github.com/dvesti) | [Twitter](https://twitter.com/Prorab)"
+  footer: "&copy; [Dvesti](https://github.com/dvesti) 2024 | [Github](https://github.com/dvesti) | Powered by [Hugo](https://gohugo.io/). Theme: [XMag](https://github.com/yihui/hugo-xmag)"
   github_edit: "https://github.com/dvesti/mag/edit/main/content/"
   summary_length: 300
   text:
     back: "&larr; На Главную"
     edit: "Правка &rarr;"
     truncated: "&hellip;"
+    comment: "ком 发表/реа 查看评论"
 
 markup:
   highlight:
