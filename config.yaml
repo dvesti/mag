@@ -55,8 +55,7 @@ params:
     edit: "Правка &rarr;"
     truncated: "&hellip;"
     comment: "ком 发表/реа 查看评论"
-  meta:
-    favicon: false
+  favicon: "favicon.ico"
 
 markup:
   highlight:
