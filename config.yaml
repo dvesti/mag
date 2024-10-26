@@ -1,4 +1,4 @@
-baseurl: "xmag.netlify.app/" #"/" #"https://dvesti.github.io/mag/"
+baseurl: "https://xmag.netlify.app/" #"/" #"https://dvesti.github.io/mag/"
 defaultContentLanguage: "ru"
 languageCode: "ru-RU" #"en-us"
 title: "Dbecma"   #"Azbecmak"  #"Gazeta"
