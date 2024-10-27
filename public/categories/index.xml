@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Категории on Dbecma</title>
+    <title>Категории on Dvesti</title>
     <link>http://localhost:4321/categories/</link>
-    <description>Recent content in Категории on Dbecma</description>
+    <description>Recent content in Категории on Dvesti</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
@@ -30,7 +30,7 @@
       <description></description>
     </item>
     <item>
-      <title>Machine Learning</title>
+      <title>Machine-Learning</title>
       <link>http://localhost:4321/categories/machine-learning/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/machine-learning/</guid>

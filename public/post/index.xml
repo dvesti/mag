@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dbecma</title>
+    <title>Posts on Dvesti</title>
     <link>http://localhost:4321/post/</link>
-    <description>Recent content in Posts on Dbecma</description>
+    <description>Recent content in Posts on Dvesti</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
@@ -58,7 +58,7 @@
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; - это текст-&amp;ldquo;рыба&amp;rdquo;, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной &amp;ldquo;рыбой&amp;rdquo; для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Лорем Ипсум -- рулит!</title>
+      <title>Лорем Ипсум - рулит!</title>
       <link>http://localhost:4321/post/2015/07/23/lorem-ipsum-rulit/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/post/2015/07/23/lorem-ipsum-rulit/</guid>

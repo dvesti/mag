@@ -5,9 +5,9 @@ categories:
 date: "2015-07-23"
 tags:
 - Markdown
-- Lorem Ipsum
+- "Lorem Ipsum"
 thumbnail: https://db.yihui.org/images/saga7.gif
-title: Лорем Ипсум -- рулит!
+title: Лорем Ипсум - рулит!
 slug: lorem-ipsum-rulit
 ---
 

@@ -1,7 +1,7 @@
 ---
 author: Thomas Lumley
 categories:
-- Machine Learning
+- Machine-Learning
 date: "2015-07-28"
 tags:
 - Markdown

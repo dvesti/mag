@@ -1,7 +1,7 @@
 baseurl: "https://xmag.netlify.app/" #"/" #"https://dvesti.github.io/mag/"
 defaultContentLanguage: "ru"
 languageCode: "ru-RU" #"en-us"
-title: "Dbecma"   #"Azbecmak"  #"Gazeta"
+title:  "Dvesti" #"Dbecma"   #"Azbecmak"  #"Gazeta"
 theme: "hugo-xmag"
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
