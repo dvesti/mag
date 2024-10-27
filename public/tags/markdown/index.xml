@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Dbecma</title>
-    <link>http://localhost:4321/tags/markdown/</link>
+    <link>https://xmag.netlify.app/tags/markdown/</link>
     <description>Recent content in Markdown on Dbecma</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 14 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xmag.netlify.app/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Простой текст на Markdown</title>
-      <link>http://localhost:4321/post/2017/02/14/hello-markdown/</link>
+      <link>https://xmag.netlify.app/post/2017/02/14/hello-markdown/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/2017/02/14/hello-markdown/</guid>
-      <description>&lt;p&gt;This sample post is mainly for &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; users. If you do not use &lt;strong&gt;blogdown&lt;/strong&gt;, you can skip the first section. To know more about the Hugo XMag theme, please read the &lt;a href=&#34;http://localhost:4321/about/&#34;&gt;About&lt;/a&gt; page.&lt;/p&gt;&#xA;&lt;h1 id=&#34;1-markdown-or-r-markdown&#34;&gt;1. Markdown or R Markdown&lt;/h1&gt;&#xA;&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (&lt;code&gt;```{r}&lt;/code&gt;);&lt;/li&gt;&#xA;&lt;li&gt;A plain Markdown post is rendered through &lt;a href=&#34;https://gohugo.io/overview/configuration/&#34;&gt;Blackfriday&lt;/a&gt;, and an R Markdown document is compiled by &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;&lt;strong&gt;rmarkdown&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://pandoc.org&#34;&gt;Pandoc&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:&lt;/p&gt;</description>
+      <guid>https://xmag.netlify.app/post/2017/02/14/hello-markdown/</guid>
+      <description>&lt;p&gt;This sample post is mainly for &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; users. If you do not use &lt;strong&gt;blogdown&lt;/strong&gt;, you can skip the first section. To know more about the Hugo XMag theme, please read the &lt;a href=&#34;https://xmag.netlify.app/about/&#34;&gt;About&lt;/a&gt; page.&lt;/p&gt;&#xA;&lt;h1 id=&#34;1-markdown-or-r-markdown&#34;&gt;1. Markdown or R Markdown&lt;/h1&gt;&#xA;&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (&lt;code&gt;```{r}&lt;/code&gt;);&lt;/li&gt;&#xA;&lt;li&gt;A plain Markdown post is rendered through &lt;a href=&#34;https://gohugo.io/overview/configuration/&#34;&gt;Blackfriday&lt;/a&gt;, and an R Markdown document is compiled by &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;&lt;strong&gt;rmarkdown&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://pandoc.org&#34;&gt;Pandoc&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Все участвуем в марафоне!</title>
-      <link>http://localhost:4321/post/2015/07/28/%D0%B2%D1%81%D0%B5-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B2%D1%83%D0%B5%D0%BC-%D0%B2-%D0%BC%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%D0%B5/</link>
+      <link>https://xmag.netlify.app/post/2015/07/28/%D0%B2%D1%81%D0%B5-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B2%D1%83%D0%B5%D0%BC-%D0%B2-%D0%BC%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%D0%B5/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/2015/07/28/%D0%B2%D1%81%D0%B5-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B2%D1%83%D0%B5%D0%BC-%D0%B2-%D0%BC%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%D0%B5/</guid>
+      <guid>https://xmag.netlify.app/post/2015/07/28/%D0%B2%D1%81%D0%B5-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B2%D1%83%D0%B5%D0%BC-%D0%B2-%D0%BC%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%D0%B5/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; - это текст-&amp;ldquo;рыба&amp;rdquo;, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной &amp;ldquo;рыбой&amp;rdquo; для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Просто тест</title>
-      <link>http://localhost:4321/post/2015/07/27/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE-%D1%82%D0%B5%D1%81%D1%82/</link>
+      <title>Просто тест с очень длинным заголовком на треть страницы, аж двоится</title>
+      <link>https://xmag.netlify.app/post/2015/07/27/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE-%D1%82%D0%B5%D1%81%D1%82-%D1%81-%D0%BE%D1%87%D0%B5%D0%BD%D1%8C-%D0%B4%D0%BB%D0%B8%D0%BD%D0%BD%D1%8B%D0%BC-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC-%D0%BD%D0%B0-%D1%82%D1%80%D0%B5%D1%82%D1%8C-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B-%D0%B0%D0%B6-%D0%B4%D0%B2%D0%BE%D0%B8%D1%82%D1%81%D1%8F/</link>
       <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/2015/07/27/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE-%D1%82%D0%B5%D1%81%D1%82/</guid>
+      <guid>https://xmag.netlify.app/post/2015/07/27/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE-%D1%82%D0%B5%D1%81%D1%82-%D1%81-%D0%BE%D1%87%D0%B5%D0%BD%D1%8C-%D0%B4%D0%BB%D0%B8%D0%BD%D0%BD%D1%8B%D0%BC-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC-%D0%BD%D0%B0-%D1%82%D1%80%D0%B5%D1%82%D1%8C-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B-%D0%B0%D0%B6-%D0%B4%D0%B2%D0%BE%D0%B8%D1%82%D1%81%D1%8F/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; - это текст-&amp;ldquo;рыба&amp;rdquo;, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной &amp;ldquo;рыбой&amp;rdquo; для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Два раза в одну реку</title>
-      <link>http://localhost:4321/post/2015/07/26/%D0%B4%D0%B2%D0%B0-%D1%80%D0%B0%D0%B7%D0%B0-%D0%B2-%D0%BE%D0%B4%D0%BD%D1%83-%D1%80%D0%B5%D0%BA%D1%83/</link>
+      <link>https://xmag.netlify.app/post/2015/07/26/%D0%B4%D0%B2%D0%B0-%D1%80%D0%B0%D0%B7%D0%B0-%D0%B2-%D0%BE%D0%B4%D0%BD%D1%83-%D1%80%D0%B5%D0%BA%D1%83/</link>
       <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/2015/07/26/%D0%B4%D0%B2%D0%B0-%D1%80%D0%B0%D0%B7%D0%B0-%D0%B2-%D0%BE%D0%B4%D0%BD%D1%83-%D1%80%D0%B5%D0%BA%D1%83/</guid>
+      <guid>https://xmag.netlify.app/post/2015/07/26/%D0%B4%D0%B2%D0%B0-%D1%80%D0%B0%D0%B7%D0%B0-%D0%B2-%D0%BE%D0%B4%D0%BD%D1%83-%D1%80%D0%B5%D0%BA%D1%83/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; - это текст-&amp;ldquo;рыба&amp;rdquo;, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной &amp;ldquo;рыбой&amp;rdquo; для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Получи запрос от Dvesti</title>
-      <link>http://localhost:4321/post/2015/07/25/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82-dvesti/</link>
+      <link>https://xmag.netlify.app/post/2015/07/25/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82-dvesti/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/2015/07/25/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82-dvesti/</guid>
+      <guid>https://xmag.netlify.app/post/2015/07/25/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82-dvesti/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; - это текст-&amp;ldquo;рыба&amp;rdquo;, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной &amp;ldquo;рыбой&amp;rdquo; для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dvesti -- это не цифра!</title>
-      <link>http://localhost:4321/post/2015/07/24/dvesti--%D1%8D%D1%82%D0%BE-%D0%BD%D0%B5-%D1%86%D0%B8%D1%84%D1%80%D0%B0/</link>
+      <link>https://xmag.netlify.app/post/2015/07/24/dvesti--%D1%8D%D1%82%D0%BE-%D0%BD%D0%B5-%D1%86%D0%B8%D1%84%D1%80%D0%B0/</link>
       <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/2015/07/24/dvesti--%D1%8D%D1%82%D0%BE-%D0%BD%D0%B5-%D1%86%D0%B8%D1%84%D1%80%D0%B0/</guid>
+      <guid>https://xmag.netlify.app/post/2015/07/24/dvesti--%D1%8D%D1%82%D0%BE-%D0%BD%D0%B5-%D1%86%D0%B8%D1%84%D1%80%D0%B0/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; - это текст-&amp;ldquo;рыба&amp;rdquo;, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной &amp;ldquo;рыбой&amp;rdquo; для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Лорем Ипсум -- рулит!</title>
-      <link>http://localhost:4321/post/2015/07/23/lorem-ipsum-rulit/</link>
+      <link>https://xmag.netlify.app/post/2015/07/23/lorem-ipsum-rulit/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/2015/07/23/lorem-ipsum-rulit/</guid>
+      <guid>https://xmag.netlify.app/post/2015/07/23/lorem-ipsum-rulit/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; - это текст-&amp;ldquo;рыба&amp;rdquo;, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной &amp;ldquo;рыбой&amp;rdquo; для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.&#xA;Вовка&lt;/p&gt;</description>
     </item>
   </channel>

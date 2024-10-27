@@ -1,4 +1,9 @@
 {{ if and (not .Params.disable_comments) (or (eq .Kind "404") (and (not .IsHome) .Content)) }}
+
+<section class="comments">
+<center>{{ default "View Comments" .Site.Params.text.comment }}</center>
+</section>
+
 <section class="fullwidth comments">
 <script src="https://giscus.app/client.js"
         data-repo="dvesti/mag"

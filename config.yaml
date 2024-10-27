@@ -54,7 +54,7 @@ params:
     back: "&larr; На Главную"
     edit: "Правка &rarr;"
     truncated: "&hellip;"
-    comment: "ком 发表/реа 查看评论"
+    comment: "Коммментарии/Реакции"
   favicon: "favicon.ico"
 
 markup:
