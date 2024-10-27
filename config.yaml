@@ -9,6 +9,7 @@ preserveTaxonomyNames: true
 footnotereturnlinkcontents: "↩"
 hasCJKLanguage: true
 enableEmoji: true
+twitterImage: "/img/dvesti-logo.jpg"
 #paginate: 6
 pagination:
   disableAliases: false
