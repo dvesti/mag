@@ -9,7 +9,7 @@ preserveTaxonomyNames: true
 footnotereturnlinkcontents: "↩"
 hasCJKLanguage: true
 enableEmoji: true
-twitterImage: "/img/dvesti-logo.jpg"
+
 #paginate: 6
 pagination:
   disableAliases: false
@@ -55,12 +55,14 @@ params:
     back: "&larr; На Главную"
     edit: "Правка &rarr;"
     truncated: "&hellip;"
-    comment: "Коммментарии/Реакции"
+    comment: "Комментарии/Реакции"
   favicon: "favicon.ico"
   banner: 
     src: "/img/dvesti-logo.jpg"
     alt:  "Dvesti"
     class: "center"
+  logo:
+    twitterImage: "/img/dvesti-logo.jpg"  
 
 markup:
   highlight:
