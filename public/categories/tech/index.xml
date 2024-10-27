@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Техно on Dbecma</title>
-    <link>https://xmag.netlify.app/categories/tech/</link>
+    <link>http://localhost:4321/categories/tech/</link>
     <description>Recent content in Техно on Dbecma</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <lastBuildDate>Sat, 25 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://xmag.netlify.app/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Получи запрос от Dvesti</title>
-      <link>https://xmag.netlify.app/post/2015/07/25/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82-dvesti/</link>
+      <link>http://localhost:4321/post/2015/07/25/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82-dvesti/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://xmag.netlify.app/post/2015/07/25/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82-dvesti/</guid>
+      <guid>http://localhost:4321/post/2015/07/25/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81-%D0%BE%D1%82-dvesti/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; - это текст-&amp;ldquo;рыба&amp;rdquo;, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной &amp;ldquo;рыбой&amp;rdquo; для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.&lt;/p&gt;</description>
     </item>
   </channel>
