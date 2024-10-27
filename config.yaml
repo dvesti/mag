@@ -59,6 +59,7 @@ params:
   banner: 
     src: "/img/dvesti-logo.jpg"
     alt:  "Dvesti"
+    class: "center"
 
 markup:
   highlight:

@@ -4,7 +4,7 @@ a {
   text-decoration: none;
 }
 blockquote { margin: auto; }
-.header, .header .banner { padding: 0; }
+.header, .header .banner { padding: 0; } 
 .header {
   border-top: 5px solid #8c1f22;
   border-bottom: none;
@@ -16,7 +16,7 @@ blockquote { margin: auto; }
   border-bottom: 1px solid #8c1f22;
   margin-bottom: 1em;
 }
-.header .banner-wrapper, .page .header .banner-wrapper {
+/*.header .banner-wrapper, .page .header .banner-wrapper {
   max-width: 100%;
   background: rgba(142, 31, 35, 0.025);
 }
@@ -26,14 +26,14 @@ blockquote { margin: auto; }
   justify-content: space-between;
   align-items: stretch;
 }
-.header .banner-image, .menu-top {
+/*.header .banner-image, .menu-top {
   display: table-cell;
   vertical-align: middle;
 }
-.header .banner-image {
+/*.header .banner-image {
   margin-left: 0;
   padding-left: 0;
-}
+} */
 .menu-top {
   display: flex;
   padding-left: 0;
