@@ -56,6 +56,9 @@ params:
     truncated: "&hellip;"
     comment: "Коммментарии/Реакции"
   favicon: "favicon.ico"
+  banner: 
+    src: "/img/dvesti-logo.jpg"
+    alt:  "Dvesti"
 
 markup:
   highlight:
