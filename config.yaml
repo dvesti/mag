@@ -25,6 +25,7 @@ blackfriday:
 permalinks:
   post: "/post/:year/:month/:day/:slug/"
   tag: "/tags/:slug/"
+  category: "/categories/:slug/"
 
 menu:
   main:
@@ -56,6 +57,9 @@ params:
     edit: "Правка &rarr;"
     truncated: "&hellip;"
     comment: "Комментарии/Реакции"
+    tags: "Тэги: "
+    example: "Пример"
+    health: "Здоровье"
   favicon: "favicon.ico"
   banner: 
     src: "/img/dvesti-logo.jpg"
