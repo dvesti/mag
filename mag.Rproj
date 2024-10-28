@@ -14,3 +14,4 @@ LaTeX: pdfLaTeX
 
 BuildType: Website
 WebsitePath: C:/Users/Administrator/Dropbox/R/mag
+DisableExecuteRprofile: Yes
