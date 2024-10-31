@@ -1,19 +1,19 @@
 body { color: #333; }
 a {
-  color: #f05948;
+ /* color: #f05948; */
   text-decoration: none;
 }
 blockquote { margin: auto; }
 .header, .header .banner { padding: 0; } 
 .header {
-  border-top: 5px solid #8c1f22;
+ /* border-top: 5px solid #8c1f22;
   border-bottom: none;
   margin-bottom: 5px;
-  box-shadow: 0 0 10px #8c1f22;
+  box-shadow: 0 0 10px #8c1f22; */
 }
 .page .header {
   box-shadow: none;
-  border-bottom: 1px solid #8c1f22;
+/*  border-bottom: 1px solid #8c1f22; */
   margin-bottom: 1em;
 }
 /*.header .banner-wrapper, .page .header .banner-wrapper {
@@ -53,7 +53,7 @@ blockquote { margin: auto; }
 .menu-top li:hover { background: #8c1f22; }
 .menu-top li a { display: flex; }
 .menu-top li:hover a { color: #fff; }
-.footer { background: #8c1f22; }
+/*.footer { background: #8c1f22; }*/
 .article-list h1 {
   font-size: 1.3em;
   line-height: 1.3em;
@@ -65,6 +65,7 @@ blockquote { margin: auto; }
 }
 .article-list a { color: #333; }
 .categories a { color: #666; }
+.categories  a:hover { font-weight: bold; color: #666; }
 @media (min-width: 715px) {
   .article-list h1 {
     white-space: nowrap;
@@ -115,7 +116,7 @@ blockquote { margin: auto; }
 .summary img { transition: transform 0.6s; }
 .summary img:hover { transform: scale(1.4); }
 .article-list h1 a:hover {
-  color: #f05948;
+/*  color: #f05948; */
   text-decoration: none
 }
 .active a { text-decoration: underline; }
@@ -123,8 +124,8 @@ blockquote { margin: auto; }
   background: transparent;
   padding: 0;
 }
-article { box-shadow: 0 0 8px #ccc; }
-article a:hover { font-weight: bold; color: #00b0cf; }
+/*article { box-shadow: 0 0 8px #ccc; }
+article a:hover { font-weight: normal/*bold*/; color: #00b0cf; } */
 
 .article-footer {
   padding: 0 1em 0 1em;
@@ -135,7 +136,8 @@ article a:hover { font-weight: bold; color: #00b0cf; }
 .article-footer img { max-width: 200px; }
 
 .post-nav {padding: 1em 0;}
-.post-nav a { font-weight: bold; }
+/*.post-nav a { font-weight: bold; }
+.post-nav a:hover { font-weight: bold; color: #00b0cf; */
 
 .profile img {
   max-width: 8em;
