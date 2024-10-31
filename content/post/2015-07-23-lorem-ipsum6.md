@@ -1,11 +1,11 @@
 ---
 author: Thomas Lumley
 categories:
-- Machine-Learning
+  - Machine-Learning
 date: "2015-07-28"
 tags:
-- Markdown
-- Lorem Ipsum
+  - Markdown
+  - Lorem-Ipsum
 thumbnail: https://db.yihui.org/imgur/CwBsAqs.png
 title: Все участвуем в марафоне!
 ---

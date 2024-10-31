@@ -1,17 +1,17 @@
 ---
 author:
-- Yihui Xie
-- Frida Gomam
+  - Yihui Xie
+  - Frida Gomam
 categories:
-- Example
-- Hugo
+  - Example
+  - Hugo
 date: "2017-02-14"
 tags:
-- blogdown
-- Markdown
-- MathJax
-- Pandoc
-- RStudio
+  - blogdown
+  - Markdown
+  - MathJax
+  - Pandoc
+  - RStudio
 title: Простой текст на Markdown
 toc: true
 slug: hello-markdown

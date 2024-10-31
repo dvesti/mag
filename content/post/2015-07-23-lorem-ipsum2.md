@@ -1,11 +1,11 @@
 ---
 author: Mauricio Vargas
 categories:
-- Statistics
+  - Statistics
 date: "2015-07-24"
 tags:
-- Markdown
-- Lorem Ipsum
+  - Markdown
+  - Lorem-Ipsum
 thumbnail: https://db.yihui.org/imgur/4rHon0B.png
 title: Dvesti -- это не цифра!
 ---

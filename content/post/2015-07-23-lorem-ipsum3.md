@@ -1,11 +1,11 @@
 ---
 author: Martin J Frigaard
 categories:
-- Tech
+  - Tech
 date: "2015-07-25"
 tags:
-- Markdown
-- Lorem Ipsum
+  - Markdown
+  - Lorem-Ipsum
 thumbnail: https://db.yihui.org/images/git-diff-gui.png
 title: Получи запрос от Dvesti 
 ---

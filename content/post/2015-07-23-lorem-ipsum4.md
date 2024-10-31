@@ -1,11 +1,11 @@
 ---
 author: Brian Caffo
 categories:
-- Leekaso
+  - Leekaso
 date: "2015-07-26"
 tags:
-- Markdown
-- Lorem Ipsum
+  - Markdown
+  - Lorem-Ipsum
 thumbnail: https://db.yihui.org/imgur/2R9iyPv.jpg
 title: Два раза в одну реку
 ---

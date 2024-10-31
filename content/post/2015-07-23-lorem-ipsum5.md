@@ -1,11 +1,11 @@
 ---
 author: Kenny Shirley
 categories:
-- Leekaso
+  - Leekaso
 date: "2015-07-27"
 tags:
-- Markdown
-- Lorem Ipsum
+  - Markdown
+  - Lorem-Ipsum
 thumbnail: https://db.yihui.org/imgur/3mdv0k9.jpg
 title: Просто тест с очень длинным заголовком на треть страницы, аж двоится
 slug: Prosto-test

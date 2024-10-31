@@ -1,4 +1,5 @@
 ---
-title: Категории
+Lang: ru
+Title: Категории
 slug: categories
 ---

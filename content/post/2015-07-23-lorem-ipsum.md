@@ -1,11 +1,11 @@
 ---
 author: Dvesti
 categories:
-- Statistics
+  - Statistics
 date: "2015-07-23"
-tags:
-- Markdown
-- "Lorem Ipsum"
+tags: 
+  - Markdown
+  - Lorem-Ipsum
 thumbnail: https://db.yihui.org/images/saga7.gif
 title: Лорем Ипсум - рулит!
 slug: lorem-ipsum-rulit
