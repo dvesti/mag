@@ -120,18 +120,18 @@ blockquote { margin: auto; }
   text-decoration: none
 }
 .active a { text-decoration: underline; }
-.article-meta {
-  background: transparent;
-  padding: 0;
+article-meta {
+/*  background: transparent;
+  padding: 0; */
 }
-/*article { box-shadow: 0 0 8px #ccc; }
-article a:hover { font-weight: normal/*bold*/; color: #00b0cf; } */
+article { box-shadow: 0 0 8px #ccc; }
+/*article a:hover { font-weight: normal/*bold*/; color: #00b0cf; } */
 
 .article-footer {
-  padding: 0 1em 0 1em;
+ /* padding: 0 1em 0 1em;
   border: 1px solid #8c1f22;
   font-size: .9em;
-  margin-top: 1em;
+  margin-top: 1em; */
 }
 .article-footer img { max-width: 200px; }
 
