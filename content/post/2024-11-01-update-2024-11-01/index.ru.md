@@ -7,7 +7,7 @@ categories:
   - News
 tags:
   - site
-draft: yes
+draft: no #yes
 ---
 
 Сделал ряд изменения на страничке сайта (Газеты).
