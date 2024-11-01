@@ -6,8 +6,15 @@
     <description>Recent content in Тэги on Dvesti</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новости сайта</title>
+      <link>http://localhost:4321/tags/site/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/site/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Кофе</title>
       <link>http://localhost:4321/tags/%D1%81offee/</link>

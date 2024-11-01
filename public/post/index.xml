@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Dvesti</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обновление сайта от 01-11-2024</title>
+      <link>http://localhost:4321/post/2024/11/01/update-2024-11-01/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/2024/11/01/update-2024-11-01/</guid>
+      <description>&lt;p&gt;Сделал ряд изменения на страничке сайта (Газеты).&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Вернулся к классическому дизайну &amp;ndash; строго по-газетному: чёрно-белое.&lt;/li&gt;&#xA;&lt;li&gt;Убрал отображение ссылок при наведении курсора. Теперь почти не заметно и не раздражает прыгание текста.&lt;/li&gt;&#xA;&lt;li&gt;Хотел локализовать, но в данной конструкции не получилось. Поэтому поменял некоторые строчки во внутренностях сайта.&lt;/li&gt;&#xA;&lt;li&gt;Категории и Тэги сделал русскими с одновременным урлом (адресом) на латинице. Добавил несколько папок в папку категории и тэги.&lt;/li&gt;&#xA;&lt;li&gt;Переместил и изменил отображение тэгов и категорий на одиночной странице, т.е. странице самой статьи. Взят шаблон от прежнего.&lt;/li&gt;&#xA;&lt;li&gt;Поменял сам шрифт (ещё надо поработать) основного текста, а также для кода Всё подсмотрено у других. Но делаю так, чтобы самому нравилось и не раздражало из-за мелкости или иных причин.&lt;/li&gt;&#xA;&lt;li&gt;Ещё раньше пристроил:&lt;br&gt;&#xA;&amp;ndash; Поиск&lt;br&gt;&#xA;&amp;ndash; Архив&lt;br&gt;&#xA;&amp;ndash; Категории&lt;br&gt;&#xA;&amp;ndash; Тэги&lt;br&gt;&#xA;&amp;ndash; Комментарии&lt;br&gt;&#xA;То есть стало по-другому, не стандартный из коробки.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Теперь осталось &amp;ndash; только наполнять сайт контентом, что сейчас и делаю&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>7 преимуществ употребления кофе без подсластителей</title>
       <link>http://localhost:4321/post/2024/10/28/kofe-bez-sahara/</link>
