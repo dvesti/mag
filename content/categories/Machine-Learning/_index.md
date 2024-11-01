@@ -1,4 +1,4 @@
 ---
-Title: Machine Learning
+Title: Машинное обучение
 slug: machine-learning
 ---

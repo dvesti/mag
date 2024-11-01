@@ -23,13 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>Example</title>
-      <link>http://localhost:4321/categories/example/</link>
-      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/example/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Hugo</title>
       <link>http://localhost:4321/categories/hugo/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
@@ -37,28 +30,35 @@
       <description></description>
     </item>
     <item>
-      <title>Machine Learning</title>
+      <title>Пример</title>
+      <link>http://localhost:4321/categories/example/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Машинное обучение</title>
       <link>http://localhost:4321/categories/machine-learning/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/machine-learning/</guid>
       <description></description>
     </item>
     <item>
-      <title>Leekaso</title>
+      <title>По лекалам Запада</title>
       <link>http://localhost:4321/categories/leekaso/</link>
       <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/leekaso/</guid>
       <description></description>
     </item>
     <item>
-      <title>Техно</title>
+      <title>Технологии</title>
       <link>http://localhost:4321/categories/tech/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/tech/</guid>
       <description></description>
     </item>
     <item>
-      <title>Statistics</title>
+      <title>Статистика</title>
       <link>http://localhost:4321/categories/statistics/</link>
       <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/statistics/</guid>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statistics on Dvesti</title>
+    <title>Статистика on Dvesti</title>
     <link>http://localhost:4321/categories/statistics/</link>
-    <description>Recent content in Statistics on Dvesti</description>
+    <description>Recent content in Статистика on Dvesti</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <lastBuildDate>Fri, 24 Jul 2015 00:00:00 +0000</lastBuildDate>

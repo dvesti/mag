@@ -1,3 +1,4 @@
 ---
-title: Gazeta
+title: Газета
 ---
+

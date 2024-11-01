@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning on Dvesti</title>
+    <title>Машинное обучение on Dvesti</title>
     <link>http://localhost:4321/categories/machine-learning/</link>
-    <description>Recent content in Machine Learning on Dvesti</description>
+    <description>Recent content in Машинное обучение on Dvesti</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 28 Jul 2015 00:00:00 +0000</lastBuildDate>

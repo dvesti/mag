@@ -19,13 +19,19 @@ pagination:
 outputs:
   home: ["html", "rss", "json"]
   
+taxonomies:
+  authors: authors       # multiple authors.
+  tags: tags
+  categories: categories  
+  
 blackfriday:
   extensionsmask: ["noIntraEmphasis"]  
 
 permalinks:
   post: "/post/:year/:month/:day/:slug/"
-  tag: "/tags/:slug/"
-  category: "/categories/:slug/"
+  term:
+    tags: "/tags/:slug/"
+    categories: "/categories/:slug/"
 
 menu:
   main:
@@ -52,14 +58,19 @@ params:
   footer: "&copy; [Dvesti](https://github.com/dvesti) 2024 | [Github](https://github.com/dvesti) | Powered by [Hugo](https://gohugo.io/). Theme: [XMag](https://github.com/yihui/hugo-xmag)"
   github_edit: "https://github.com/dvesti/mag/edit/main/content/"
   summary_length: 300
+  categories:
+    text:
+      health: "Здоровье"
   text:
     back: "&larr; На Главную"
     edit: "Правка &rarr;"
     truncated: "&hellip;"
     comment: "Комментарии/Реакции"
     tags: "Тэги: "
+    categories: "Категории: "
     example: "Пример"
     health: "Здоровье"
+    statistics: "Статистика"
   favicon: "favicon.ico"
   banner: 
     src: "/img/dvesti-logo.jpg"

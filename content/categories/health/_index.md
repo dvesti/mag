@@ -1,6 +1,6 @@
 ---
-title: Здоровье
+Title: Здоровье
 slug: health
-type: categories
-layout: list
+#type: categories
+#layout: list
 ---

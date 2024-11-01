@@ -9,7 +9,7 @@
   {{ range $key, $value := .Data.Terms }}
   <li>
     <a href="{{ (print "/" $.Data.Plural "/" $key) | relURL }}">
-      {{ $key }}
+      <!-- {{ $key }} --> {{ .Page.Title }}
     </a>
     ({{ len $value }})
   </li>

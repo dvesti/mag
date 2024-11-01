@@ -1,4 +1,4 @@
 ---
 Title: Кофе
-slug: coffee
+slug: сoffee
 ---

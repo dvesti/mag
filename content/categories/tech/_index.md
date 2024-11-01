@@ -1,4 +1,4 @@
 ---
-Title: Техно
+Title: Технологии
 slug: tech
 ---
