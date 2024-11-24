@@ -50,7 +50,7 @@ menu:
 #    - name: Поиск
 #      url: search/
 #      weight: 5  
-    - name: Подписка
+    - name: RSS/XML
       url: index.xml
 
 params:
