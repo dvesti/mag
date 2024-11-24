@@ -2,13 +2,7 @@
 <div class="container">
 <article>
 <div class="article-meta"> 
-
-<!--  <div class="categories">
-  {{ range $i, $e := .Params.categories }}
-    {{ if $i }} &hercon; {{ end }}<a href="{{ relURL (print "/categories/" $e | urlize) }}">{{ $e }}</a> 
-  {{ end }}
-    </div>
--->
+   
   <h1><span class="title">{{ .Title }}</span></h1>
 
   {{ if .Params.author }}
