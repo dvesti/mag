@@ -1,7 +1,7 @@
 ---
 title: "Сначала зарядку – в розетку или наоборот?"
 author: "Dvesti"
-slug: ""
+slug: "zarjadka-telefona"
 date: '2024-11-24T18:09:59+02:00'
 categories: ["Tech"]
 tags: ["Telefon"]
